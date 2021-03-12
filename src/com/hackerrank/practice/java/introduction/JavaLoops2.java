@@ -1,3 +1,5 @@
+package com.hackerrank.practice.java.introduction;
+
 import java.util.*;
 import java.io.*;
 
