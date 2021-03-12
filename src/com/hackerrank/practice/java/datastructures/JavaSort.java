@@ -1,6 +1,4 @@
-import java.text.NumberFormat;
-import java.util.Locale;
-import java.util.Scanner;
+package com.hackerrank.practice.java.datastructures;
 
 import java.util.*;
 
@@ -81,7 +79,7 @@ public class JavaSort{
 
             testCases--;
         }
-//        Collections.sort(studentList, Student.getCompByCgpaThenFnameThenId());
+//        Collections.sort(studentList, com.hackerrank.practice.java.datastructures.Student.getCompByCgpaThenFnameThenId());
         studentList.sort(Student.getCompByCgpaThenFnameThenId());
         for(Student st: studentList){
             System.out.println(st.getId() + " " + st.getFname()+ " " + st.getCgpa());
