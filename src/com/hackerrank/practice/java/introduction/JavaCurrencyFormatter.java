@@ -1,8 +1,11 @@
+package com.hackerrank.practice.java.introduction;
+
 import java.text.NumberFormat;
 import java.util.Locale;
 import java.util.Scanner;
 
 class JavaCurrencyFormatter {
+
     public static void main(String []args){
 
         Scanner scanner = new Scanner(System.in);
@@ -23,4 +26,5 @@ class JavaCurrencyFormatter {
         System.out.println("China: " + china);
         System.out.println("France: " + france);
     }
+
 }
