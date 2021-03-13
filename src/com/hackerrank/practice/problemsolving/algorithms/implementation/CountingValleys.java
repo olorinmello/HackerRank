@@ -1,3 +1,5 @@
+package com.hackerrank.practice.problemsolving.algorithms.implementation;
+
 import java.io.*;
 import java.math.*;
 import java.security.*;
