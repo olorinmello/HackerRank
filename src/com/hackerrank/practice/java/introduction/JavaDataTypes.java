@@ -3,7 +3,7 @@ package com.hackerrank.practice.java.introduction;
 import java.util.*;
 import java.io.*;
 
-public class JavaDatatypes {
+public class JavaDataTypes {
 
     public static void main(String []argh) {
         Scanner sc = new Scanner(System.in);
